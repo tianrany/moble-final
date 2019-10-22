@@ -5,7 +5,7 @@ font-family:sanvito-pro-display,sans-serif;
   font-weight:700;
   letter-spacing: .5px;
   line-height: 1.5;
-  padding: 10%;
+   padding: 0%;
 }
 
 h1 {
@@ -30,6 +30,7 @@ p{
 img{
   max-width: 100%;
 }
+
 
 .container{
   width:800px;
