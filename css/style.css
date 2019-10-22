@@ -1,0 +1,43 @@
+/*Styles for mobile*/
+body{
+font-family:sanvito-pro-display,sans-serif;
+  font-style:normal;
+  font-weight:700;
+  letter-spacing: .5px;
+  line-height: 1.5;
+  padding: 10%;
+}
+
+h1 {
+    color:rosybrown;
+    font-weight: 500;
+}
+
+li{
+    font-family:sans-serif;
+    color:darkred;
+    font-weight: 500;
+    
+}
+
+p{
+   font-family:sans-serif;
+   color:black;
+   font-weight: 500;
+}
+
+
+img{
+  max-width: 100%;
+}
+
+.container{
+  width:800px;
+}
+
+ul{
+  margin-bottom: 2rem;
+}
+
+
+
