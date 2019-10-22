@@ -4,20 +4,19 @@ font-family:sanvito-pro-display,sans-serif;
   font-style:normal;
   font-weight:700;
   letter-spacing: .5px;
-  line-height: 1.5;
-   padding: 0%;
+  line-height: 3;
+  padding: 10%;
 }
 
 h1 {
     color:rosybrown;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 li{
     font-family:sans-serif;
     color:darkred;
     font-weight: 500;
-    
 }
 
 p{
@@ -30,7 +29,6 @@ p{
 img{
   max-width: 100%;
 }
-
 
 .container{
   width:800px;
