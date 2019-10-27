@@ -1,42 +1,75 @@
-/*Styles for mobile*/
-body{
-font-family:sanvito-pro-display,sans-serif;
-  font-style:normal;
-  font-weight:700;
-  letter-spacing: .5px;
-  line-height: 3;
-  padding: 10%;
-}
-
 h1 {
+    font-family:sanvito-pro-display,sans-serif;
     color:rosybrown;
-    font-weight: 600;
+    font-weight: 700;
+    font-style:normal;
+    font-weight:700;
+    letter-spacing: .5px;
 }
 
 li{
     font-family:sans-serif;
     color:darkred;
     font-weight: 500;
+    padding: 3%;
 }
+
+
 
 p{
    font-family:sans-serif;
    color:black;
    font-weight: 500;
+   padding: 3%;
 }
-
 
 img{
   max-width: 100%;
 }
 
+body{
+    color: #665544;
+    background-color: #d4d0c6;
+    background-image: url("imag/coffee.jpg");
+    font-family: Georgia, "Times New Roman", serif; 
+}
+
 .container{
-  width:800px;
+  position:relative;
 }
 
-ul{
-  margin-bottom: 2rem;
+.name{
+    position:absolute;
+    Left:0px;
+    bottom: 200px;
+    color:white;
+    font-family:sanvito-pro-display,sans-serif;
+    font-weight: 200;
+    font-style:normal;
+    font-size: 20px;
 }
 
 
+.name2{
+    position:absolute;
+    Left:0px;
+    bottom: 100px;
+    color:white;
+    font-family:sanvito-pro-display,sans-serif;
+    font-weight: 200;
+    font-style:normal;
+    font-size: 20px;
+}
+
+
+.name3{
+    position:absolute;
+    Left:0px;
+    bottom: 0px;
+    color:white;
+    font-family:sanvito-pro-display,sans-serif;
+    font-weight: 200;
+    font-style:normal;
+    font-size: 20px;
+}
 
