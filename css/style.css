@@ -15,41 +15,6 @@ h1 {
 }
 
 
-a1{
-  position:absolute;
-  Left:17px;
-  bottom: 590px;
-  color:white;
-  font-family:sanvito-pro-display,sans-serif;
-  font-weight: 200;
-  font-style:normal;
-  font-size: 17px;
-      
-}
-
-a2{
-  position:absolute;
-  Left:17px;
-  bottom: 490px;
-  color:white;
-  font-family:sanvito-pro-display,sans-serif;
-  font-weight: 200;
-  font-style:normal;
-  font-size: 17px;
-}
-
-a3{
-  position:absolute;
-  Left:17px;
-  bottom: 390px;
-  color:white;
-  font-family:sanvito-pro-display,sans-serif;
-  font-weight: 200;
-  font-style:normal;
-  font-size: 17px;
-}
-
-
 li{
     font-family:sans-serif;
     color:darkred;
@@ -62,7 +27,8 @@ li{
 
 p{
    font-family:sans-serif;
-   color:black;
+   color    color: #665544;
+;
    font-weight: 500;
    padding: 3%;
 }
@@ -145,6 +111,9 @@ a7{
   padding: 50px;
   text-align: center;
 }
+
+
+
 
 
 
