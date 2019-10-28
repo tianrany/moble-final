@@ -5,13 +5,57 @@ h1 {
     font-style:normal;
     font-weight:700;
     letter-spacing: .5px;
+    text-align: center;
+    font-style:normal;
+    font-size: 40px
 }
+
+ .container 1{
+  position:relative;
+}
+
+
+a1{
+  position:absolute;
+  Left:17px;
+  bottom: 590px;
+  color:white;
+  font-family:sanvito-pro-display,sans-serif;
+  font-weight: 200;
+  font-style:normal;
+  font-size: 17px;
+      
+}
+
+a2{
+  position:absolute;
+  Left:17px;
+  bottom: 490px;
+  color:white;
+  font-family:sanvito-pro-display,sans-serif;
+  font-weight: 200;
+  font-style:normal;
+  font-size: 17px;
+}
+
+a3{
+  position:absolute;
+  Left:17px;
+  bottom: 390px;
+  color:white;
+  font-family:sanvito-pro-display,sans-serif;
+  font-weight: 200;
+  font-style:normal;
+  font-size: 17px;
+}
+
 
 li{
     font-family:sans-serif;
     color:darkred;
     font-weight: 500;
     padding: 3%;
+    text-align: center;
 }
 
 
@@ -25,6 +69,7 @@ p{
 
 img{
   max-width: 100%;
+  
 }
 
 body{
@@ -34,42 +79,72 @@ body{
     font-family: Georgia, "Times New Roman", serif; 
 }
 
-.container{
-  position:relative;
-}
 
-.name{
-    position:absolute;
-    Left:0px;
-    bottom: 200px;
-    color:white;
-    font-family:sanvito-pro-display,sans-serif;
-    font-weight: 200;
-    font-style:normal;
-    font-size: 20px;
+a4{
+  padding:17px;
+  color:#665544n;
+  font-family:sanvito-pro-display,sans-serif;
+  font-weight: 200;
+  font-style:normal;
+  font-size: 20px
 }
 
 
-.name2{
-    position:absolute;
-    Left:0px;
-    bottom: 100px;
-    color:white;
-    font-family:sanvito-pro-display,sans-serif;
-    font-weight: 200;
-    font-style:normal;
-    font-size: 20px;
+a5{
+  padding:17px;
+  color:#665544;
+  font-family:sanvito-pro-display,sans-serif;
+  font-weight: 200;
+  font-style:normal;
+  font-size: 20px
 }
 
 
-.name3{
-    position:absolute;
-    Left:0px;
-    bottom: 0px;
-    color:white;
-    font-family:sanvito-pro-display,sans-serif;
-    font-weight: 200;
-    font-style:normal;
-    font-size: 20px;
+a6{
+  padding:17px;
+  color:#665544;
+  font-family:sanvito-pro-display,sans-serif;
+  font-weight: 200;
+  font-style:normal;
+  font-size: 20px
+ 
 }
+
+
+a7{
+  padding:17px;
+  color:#665544;
+  font-family:sanvito-pro-display,sans-serif;
+  font-weight: 200;
+  font-style:normal;
+  font-size: 20px
+
+}
+
+
+.tablink {
+  background-color:rosybrown;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-family:sanvito-pro-display,sans-serif;
+  font-size: 20px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
+
+
 
