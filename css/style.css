@@ -6,7 +6,7 @@ h1 {
     letter-spacing: .5px;
     text-align: center;
     font-style:normal;
-    font-size: 70px
+    font-size: 75px
 }
 h3{
     text-align: center;
@@ -55,7 +55,7 @@ body{
   cursor: pointer;
   padding: 16px 18px;
   font-family:sanvito-pro-display,sans-serif;
-  font-size: 22px;
+  font-size: 25px;
   width: 25%;   
 }
 
