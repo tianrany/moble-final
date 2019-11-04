@@ -11,6 +11,7 @@ h1 {
 h3{
     text-align: center;
 }
+
  .container 1{
   position:relative;
 }
@@ -56,7 +57,7 @@ body{
   cursor: pointer;
   padding: 14px 16px;
   font-family:sanvito-pro-display,sans-serif;
-  font-size: 50px;
+  font-size: 30px;
   width: 25%;   
 }
 
@@ -72,7 +73,12 @@ body{
 }
 
 
-
+tr{
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  letter-spacing: .5px;
+   padding: 3%;
+}
 
 
 
