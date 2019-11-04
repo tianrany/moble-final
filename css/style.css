@@ -3,7 +3,6 @@ h1 {
     color:rosybrown;
     font-weight: 700;
     font-style:normal;
-    font-weight:700;
     letter-spacing: .5px;
     text-align: center;
     font-style:normal;
@@ -54,10 +53,10 @@ body{
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
+  padding: 20px 22px;
   font-family:sanvito-pro-display,sans-serif;
-  font-size: 20px;
-  width: 25%;
+  font-size: 50px;
+  width: 25%;   
 }
 
 .tablink:hover {
